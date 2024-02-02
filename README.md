@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Vasudhesh (@vasudhesh10)
+### Hi there! 👋 I'm Vasudhesh 
 
 - 🔭 I'm a Computer Science Engineer with a passion for Machine Learning.
 - 🌱 Currently, I'm deepening my knowledge in advanced ML techniques.

@@ -6,10 +6,6 @@
 - 💞️ I'm open to collaborating on exciting ML projects that push boundaries.
 - 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/vasudhesh-nayak-59807927b/) to discuss opportunities or share insights.
 
-### Additional Details
-
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love experimenting with new ML algorithms and finding creative solutions.
 
 <!---
 vasudhesh10/vasudhesh10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
